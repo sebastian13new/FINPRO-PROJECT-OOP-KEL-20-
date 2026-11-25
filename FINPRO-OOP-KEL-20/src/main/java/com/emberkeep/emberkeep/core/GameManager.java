@@ -1,7 +1,5 @@
 package com.emberkeep.emberkeep.core;
 
-import jdk.jfr.EventType;
-
 /** Menyimpan data satu kali permainan: skor, jumlah monster dikalahkan, dan waktu. */
 public final class GameManager {
     private static GameManager instance;

@@ -1,6 +1,6 @@
 module com.emberkeep.emberkeep {
     requires javafx.controls;
     requires javafx.media;
-    requires java.xml;   // untuk membaca file map Tiled (.tmx)
+    requires java.xml;
     exports com.emberkeep.emberkeep;
 }
